@@ -78,6 +78,7 @@ const x = double(7)
 // We can use it as a test for an if statement
 if (double(7) == 2 * (3 + 4)) { // Both the left and right should return the number 14
   console.log("Good, our math works.")
+}
 
 // We even use it to store and respond to user input
 const age = parseInt(prompt())
