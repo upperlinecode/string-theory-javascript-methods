@@ -1,6 +1,6 @@
 # Strings (Music) Theory
 
-[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/string-theory-python-methods)](https://repl.it/github/upperlinecode/string-theory-python-methods)
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/string-theory-javascript-methods)](https://repl.it/github/upperlinecode/string-theory-javascript-methods)
 
 ## The Goal
 
